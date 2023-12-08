@@ -1,0 +1,10 @@
+06/12/2023 21:53:21-https://httpbin.org/status/404-Online: false
+'06/12/2023 21:53:21-https://httpbin.org/status/200-Online: true
+'06/12/2023 21:53:21-https://alura.com.br-Online: true
+'06/12/2023 21:53:26-https://httpbin.org/status/404-Online: false
+'06/12/2023 21:53:26-https://httpbin.org/status/200-Online: true
+'06/12/2023 21:53:26-https://alura.com.br-Online: true
+'06/12/2023 21:53:32-https://httpbin.org/status/404-Online: false
+'06/12/2023 21:53:32-https://httpbin.org/status/200-Online: true
+'06/12/2023 21:53:32-https://alura.com.br-Online: true
+'
